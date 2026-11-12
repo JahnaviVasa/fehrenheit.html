@@ -6,3 +6,4 @@ Learning Git branches.
 Learning Git history. 
 Learning Git push. 
 Learning Git pull. 
+Learning Git merge. 
