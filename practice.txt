@@ -5,3 +5,4 @@ Learning Git staging.
 Learning Git branches. 
 Learning Git history. 
 Learning Git push. 
+Learning Git pull. 
