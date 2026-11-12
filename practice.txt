@@ -1,0 +1,6 @@
+This is my first change in Git. 
+This is my second change. 
+Learning Git commits. 
+Learning Git staging. 
+Learning Git branches. 
+Learning Git history. 
